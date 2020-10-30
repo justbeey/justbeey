@@ -88,7 +88,7 @@
 	</head>
 	<body>
 		<div class="topnav" id="topnav">
-  		<a href="file:///C:/Users/hrbac/OneDrive/Plocha/web/index.html" class="active">Home</a>
+  		<a href="https://justbeey.github.io/" class="active">Home</a>
  		<a href="file:///C:/Users/hrbac/OneDrive/Plocha/web/about.html">About</a>
   		<a href="#contact">Portfolio</a>
   		<a href="vvv">Contact</a>
